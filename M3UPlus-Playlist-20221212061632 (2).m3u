@@ -1,0 +1,81 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: TVK" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: TVK
+https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: TVK2" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: TVK2
+https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: FreshNews TV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: FreshNews TV
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist_w649883526_b1396000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: BTV News" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: BTV News
+https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Bayon TV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: Bayon TV
+https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Hangmeas TV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: Hangmeas TV
+http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Rasmey Hang Meas HDTV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: Rasmey Hang Meas HDTV
+http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Town HD TV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: Town HD TV
+http://code.television4you.xyz/khmerpress.php?id=ទូរទស្សន៍ថោន
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: MYTV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: MYTV
+http://code.television4you.xyz/khmerpress.php?id=ម៉ាយធីវី
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: CTN" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: CTN
+http://code.television4you.xyz/khmerpress.php?id=ស៊ីធីអិន
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: CNC" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: CNC
+http://code.television4you.xyz/khmerpress.php?id=ស៊ីអិនស៊ី
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: SeaTV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: SeaTV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: CTV9" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: CTV9
+http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8?7f7e9cdb-3b9e-4f64-8ca0-23bfdfff761c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: TV5" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: TV5
+http://203.176.130.123:8989/live/tv5_480k.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: PNN" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: PNN
+http://203.176.130.123:8989/live/pnn_480k.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Aspara" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: Aspara
+Apsara TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: KhmerTV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: MSJ TV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: MSJ TV
+http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: WIKI TV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: WIKI TV
+http://206.189.93.160:1935/live/myStream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Tea TV" tvg-logo="" group-title="ប៉ុស្ដិទាំំងអស់",KH: Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Aspara" tvg-logo="" group-title="Khmer",KH: Aspara
+Apsara TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Bayon TV" tvg-logo="" group-title="Khmer",KH: Bayon TV
+https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: BTV News" tvg-logo="" group-title="Khmer",KH: BTV News
+https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: CNC" tvg-logo="" group-title="Khmer",KH: CNC
+http://code.television4you.xyz/khmerpress.php?id=ស៊ីអិនស៊ី
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: CTN" tvg-logo="" group-title="Khmer",KH: CTN
+http://code.television4you.xyz/khmerpress.php?id=ស៊ីធីអិន
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: CTV9" tvg-logo="" group-title="Khmer",KH: CTV9
+http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8?7f7e9cdb-3b9e-4f64-8ca0-23bfdfff761c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: FreshNews TV" tvg-logo="" group-title="Khmer",KH: FreshNews TV
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist_w649883526_b1396000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Hangmeas TV" tvg-logo="" group-title="Khmer",KH: Hangmeas TV
+http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: KhmerTV" tvg-logo="" group-title="Khmer",KH: KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: MSJ TV" tvg-logo="" group-title="Khmer",KH: MSJ TV
+http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: MYTV" tvg-logo="" group-title="Khmer",KH: MYTV
+http://code.television4you.xyz/khmerpress.php?id=ម៉ាយធីវី
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: PNN" tvg-logo="" group-title="Khmer",KH: PNN
+http://203.176.130.123:8989/live/pnn_480k.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Rasmey Hang Meas HDTV" tvg-logo="" group-title="Khmer",KH: Rasmey Hang Meas HDTV
+http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: SeaTV" tvg-logo="" group-title="Khmer",KH: SeaTV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Tea TV" tvg-logo="" group-title="Khmer",KH: Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: Town HD TV" tvg-logo="" group-title="Khmer",KH: Town HD TV
+http://code.television4you.xyz/khmerpress.php?id=ទូរទស្សន៍ថោន
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: TV5" tvg-logo="" group-title="Khmer",KH: TV5
+http://203.176.130.123:8989/live/tv5_480k.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: TVK" tvg-logo="" group-title="Khmer",KH: TVK
+https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: TVK2" tvg-logo="" group-title="Khmer",KH: TVK2
+https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KH: WIKI TV" tvg-logo="" group-title="Khmer",KH: WIKI TV
+http://206.189.93.160:1935/live/myStream_720p/chunklist.m3u8
