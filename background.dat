@@ -13,6 +13,28 @@ Expiry:         null
 CreatedAt:      2020-03-13 13:01:43
 Formats:        m3u8, ts, rtmp
 
+#m3u8 🇮🇩#ID
+http://103.20.184.167:8000/playlist.m3u8
+
+#EXTINF:-1,Bioskop Indonesia
+http://103.20.184.167:8000/play/a02s/index.m3u8
+#EXTINF:-1,Cinemax Dolby HD
+http://103.20.184.167:8000/play/a01r/index.m3u8
+#EXTINF:-1,Fox Action Movie HD
+http://103.20.184.167:8000/play/a00l/index.m3u8
+#EXTINF:-1,HBO Family Dolby HD
+http://103.20.184.167:8000/play/a01s/index.m3u8
+#EXTINF:-1,HBO HD
+http://103.20.184.167:8000/play/a00r/index.m3u8
+#EXTINF:-1,HBO Hits HD
+http://103.20.184.167:8000/play/a00q/index.m3u8
+#EXTINF:-1,HBO Signature Dolby HD
+http://103.20.184.167:8000/play/a01u/index.m3u8
+#EXTINF:-1,TV One
+http://103.20.184.167:8000/play/a00g/index.m3u8
+#EXTINF:-1,Warner HD
+http://103.20.184.167:8000/play/a016/index.m3u8
+
 Global
 http://kuchini.site:8080/get.php?username=tomstme300&password=tomasarenatelegramme300&type=m3u_plus
 http://iptvtree.net:8080/get.php?username=babar2020ex&password=q8tJoxpK6QLH9z2mW9Yl&type=m3u
