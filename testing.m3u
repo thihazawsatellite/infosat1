@@ -87,6 +87,8 @@ http://iptv365.xyz/5300690644/2656525529/29593
 http://iptv365.xyz:900/5300690644/2656525529/187267
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START MOVIES SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="Movies TV",START MOVIES SELECT
 http://iptv365.xyz:900/5300690644/2656525529/387767
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/263px-Star_World_2016_logo.png" group-title="Movies TV",START MOVIES SELECT
+http://61.221.81.93:8078/hls/11/80/fox.m3u8
 #EXTINF:-1 tvg-id="2b786eaf6714fbce89575dd5957a78ee" tvg-name="TRUE FILM 1" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_original.png" group-title="Movies TV",TRUE FILM 1
 http://203.80.165.14:9981/stream/channelid/795768875?profile=pass
 #EXTINF:-1 tvg-id="11aa2e30792f5b0ab4951e99df977ce1" tvg-name="TRUE FILM 2" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_original.png" group-title="Movies TV",TRUE FILM 2
