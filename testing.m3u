@@ -122,7 +122,7 @@ http://203.80.165.14:9981/stream/channelid/1155800167?profile=pass
 #EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Kids TV",CARTOON NETWORK
 http://203.80.165.14:9981/stream/channelid/457761692?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Kids TV",CARTOON NETWORK HD
-http://iptv365.xyz/5300690644/2656525529/29624
+http://103.133.222.216:4001/stream/channelid/480122992?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Kids TV",DISNEY CHANNEL
 http://iptv365.xyz:900/5300690644/2656525529/153841
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg" group-title="Kids TV",DISNEY JUNIOR
