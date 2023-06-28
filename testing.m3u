@@ -67,26 +67,24 @@ http://iptv365.xyz:900/5300690644/2656525529/191876
 http://iptv365.xyz/5300690644/2656525529/29621
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX HD" tvg-logo="https://www.cinemax.com/img/cinemax-logo-black_filled__02-10-17.svg" group-title="Movies TV",CINEMAX HD
 http://iptv365.xyz:900/5300690644/2656525529/191902
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1920px-Fox_life_logo.svg.png" group-title="Movies TV",FOX LIFE
-http://iptv365.xyz/5300690644/2656525529/29607
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1920px-Fox_life_logo.svg.png" group-title="Movies TV",FOX LIFE
+http://103.133.222.216:4001/stream/channelid/1808847736?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/220px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movies TV",FOX MOVIES
-http://iptv365.xyz/5300690644/2656525529/29606
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO ASIA" tvg-logo="https://www.hbo.com/img/hbo-logo-blk.svg" group-title="Movies TV",HBO TEST
+http://103.133.222.216:4001/stream/channelid/41821325?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://www.hbo.com/img/hbo-logo-blk.svg" group-title="Movies TV",HBO TEST
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png" group-title="Movies TV",HBO FAMILY ASIA
 http://iptv365.xyz/5300690644/2656525529/29597
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HITS ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="Movies TV",HBO HITS ASIA
 http://iptv365.xyz/5300690644/2656525529/29598
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SIGNATURE ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies TV",HBO SIGNATURE ASIA
-http://iptv365.xyz:900/5300690644/2656525529/45077
+http://103.133.222.216:4001/stream/channelid/154639551?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS MOVIE" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movies TV",HITS MOVIE
 http://iptv365.xyz:900/5300690644/2656525529/400252964
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS MOVIES" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movies TV",HITS MOVIES
 http://iptv365.xyz/5300690644/2656525529/29593
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies TV",STAR MOVIE
 http://iptv365.xyz:900/5300690644/2656525529/187267
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIE BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies TV",STAR MOVIE
-http://partyplay.live:8080/exch@grogi/grogi456/14379
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START MOVIES SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="Movies TV",START MOVIES SELECT
 http://iptv365.xyz:900/5300690644/2656525529/387767
 #EXTINF:-1 tvg-id="2b786eaf6714fbce89575dd5957a78ee" tvg-name="TRUE FILM 1" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_original.png" group-title="Movies TV",TRUE FILM 1
