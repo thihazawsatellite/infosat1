@@ -74,7 +74,7 @@ http://103.133.222.216:4001/stream/channelid/41821325?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://www.hbo.com/img/hbo-logo-blk.svg" group-title="Movies TV",HBO
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO TEST" tvg-logo="https://www.hbo.com/img/hbo-logo-blk.svg" group-title="Movies TV",HBO TEST
-http://iptv365.xyz:900/5300690644/2656525529/45061
+http://103.133.222.216:4001/stream/channelid/1965190867?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png" group-title="Movies TV",HBO FAMILY ASIA
 http://iptv365.xyz/5300690644/2656525529/29597
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HITS ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="Movies TV",HBO HITS ASIA
