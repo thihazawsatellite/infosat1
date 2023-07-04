@@ -87,6 +87,8 @@ http://iptv365.xyz:900/5300690644/2656525529/400252964
 http://iptv365.xyz/5300690644/2656525529/29593
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies TV",STAR MOVIE
 http://iptv365.xyz:900/5300690644/2656525529/187267
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIE TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies TV",STAR MOVIE TEST
+http://212.126.106.218:31000/play/a0b3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START MOVIES SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="Movies TV",START MOVIES SELECT
 http://iptv365.xyz:900/5300690644/2656525529/387767
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/263px-Star_World_2016_logo.png" group-title="Movies TV",START MOVIES SWORLD
