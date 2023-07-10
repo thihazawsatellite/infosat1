@@ -62,7 +62,7 @@ http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/chunklist_w19
 #EXTINF:-1 tvg-id="4ef3195090ca29cfd5643ceb3a638bf8" tvg-name="AXN" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="Movies TV",AXN
 http://203.80.165.14:9981/stream/channelid/1343877966?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="Movies TV",AXN HD
-https://epg.pw/stream/7dad7e769b85c513e74ecb19e7b288c4542a3b26b18b91b727acab0ffaddacdd.ctv
+http://203.77.246.2:443/udp/239.1.2.142:5000
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX ASIA" tvg-logo="https://www.cinemax.com/img/cinemax-logo-black_filled__02-10-17.svg" group-title="Movies TV",CINEMAX ASIA
 http://iptv365.xyz/5300690644/2656525529/29621
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX HD" tvg-logo="https://www.cinemax.com/img/cinemax-logo-black_filled__02-10-17.svg" group-title="Movies TV",CINEMAX HD
