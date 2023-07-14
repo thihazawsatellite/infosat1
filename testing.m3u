@@ -64,9 +64,9 @@ http://203.80.165.14:9981/stream/channelid/1343877966?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="Movies TV",AXN HD
 http://203.77.246.2:443/udp/239.1.2.142:5000
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX ASIA" tvg-logo="https://www.cinemax.com/img/cinemax-logo-black_filled__02-10-17.svg" group-title="Movies TV",CINEMAX ASIA
-http://iptv365.xyz/5300690644/2656525529/29621
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX HD" tvg-logo="https://www.cinemax.com/img/cinemax-logo-black_filled__02-10-17.svg" group-title="Movies TV",CINEMAX HD
-http://iptv365.xyz:900/5300690644/2656525529/191902
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/197964
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX WORLD" tvg-logo="https://www.cinemax.com/img/cinemax-logo-black_filled__02-10-17.svg" group-title="Movies TV",CINEMAX WORLD
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/165082
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1920px-Fox_life_logo.svg.png" group-title="Movies TV",FOX LIFE
 http://103.133.222.216:4001/stream/channelid/1808847736?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/220px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movies TV",FOX MOVIES
@@ -74,17 +74,17 @@ http://103.133.222.216:4001/stream/channelid/41821325?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://www.hbo.com/img/hbo-logo-blk.svg" group-title="Movies TV",HBO
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO TEST" tvg-logo="https://www.hbo.com/img/hbo-logo-blk.svg" group-title="Movies TV",HBO TEST
-https://epg.pw/stream/3e88c8eb81b44f3d1e08c83825e5e5c8675c5314d4ce315b2eebee16f7a2ecce.ctv
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/197972
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO FAMILY ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png" group-title="Movies TV",HBO FAMILY ASIA
-http://iptv365.xyz/5300690644/2656525529/29597
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/197055
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HITS ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="Movies TV",HBO HITS ASIA
-http://iptv365.xyz/5300690644/2656525529/29598
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/196480
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SIGNATURE ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies TV",HBO SIGNATURE ASIA
-http://103.133.222.216:4001/stream/channelid/154639551?profile=pass
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/221948
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS MOVIE" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movies TV",HITS MOVIE
-http://iptv365.xyz:900/5300690644/2656525529/400252964
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/165085
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HITS MOVIES" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movies TV",HITS MOVIES
-http://iptv365.xyz/5300690644/2656525529/29593
+http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/221947
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies TV",STAR MOVIE
 https://epg.pw/stream/bb60f36f593d1da8cb072d1bd2725109f808b990b496f4d95e66269eb86fb6e3.ctv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIE TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies TV",STAR MOVIE TEST
