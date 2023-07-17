@@ -90,7 +90,7 @@ https://epg.pw/stream/bb60f36f593d1da8cb072d1bd2725109f808b990b496f4d95e66269eb8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIE TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies TV",STAR MOVIE TEST
 http://212.126.106.218:31000/play/a0b3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START MOVIES SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="Movies TV",START MOVIES SELECT
-http://iptv365.xyz:900/5300690644/2656525529/387767
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/267542
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/263px-Star_World_2016_logo.png" group-title="Movies TV",START MOVIES SWORLD
 http://61.221.81.93:8078/hls/11/80/fox.m3u8
 #EXTINF:-1 tvg-id="2b786eaf6714fbce89575dd5957a78ee" tvg-name="TRUE FILM 1" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_original.png" group-title="Movies TV",TRUE FILM 1
@@ -128,13 +128,13 @@ http://203.80.165.14:9981/stream/channelid/1155800167?profile=pass
 #EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Kids TV",CARTOON NETWORK
 http://203.80.165.14:9981/stream/channelid/457761692?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Kids TV",CARTOON NETWORK HD
-http://iptv365.xyz:900/5300690644/2656525529/153831
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/157593
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="Kids TV",DISNEY CHANNEL
-http://iptv365.xyz:900/5300690644/2656525529/153841
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/165075
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg" group-title="Kids TV",DISNEY JUNIOR
-http://iptv365.xyz:900/5300690644/2656525529/153842
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/162511
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" group-title="Kids TV",DISNEY XD
-http://iptv365.xyz:900/5300690644/2656525529/153840
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/276564
 #EXTINF:-1 tvg-id="cfa4756543543854c28f766c34c4fd17" tvg-name="GOLDEN EAGLE CARTOON" tvg-logo="https://yt3.googleusercontent.com/dlHDGuRHTSmNPxDMrBxJD4nnxEPrZbOKo95GPrk2jG5GvvNyQyd8kqvozgP0qFZNt4TqvpEj=s900-c-k-c0x00ffffff-no-rj" group-title="Kids TV",GOLDEN EAGLE CARTOON
 http://203.80.165.14:9981/stream/channelid/1702208719?profile=pass
 #EXTINF:-1 tvg-id="623628ebb1ac54c0e68153bcb7db8b22" tvg-name="GOLDEN EAGLE CARTOON" tvg-logo="https://yt3.googleusercontent.com/dlHDGuRHTSmNPxDMrBxJD4nnxEPrZbOKo95GPrk2jG5GvvNyQyd8kqvozgP0qFZNt4TqvpEj=s900-c-k-c0x00ffffff-no-rj" group-title="Kids TV",GOLDEN EAGLE CARTOON
@@ -144,11 +144,15 @@ http://203.80.165.14:9981/stream/channelid/1837137321?profile=pass
 #EXTINF:-1 tvg-id="f8446d40cd55d9f88aa016b5ea52b961" tvg-name="Asto Super Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sport TV",Asto Super Sport
 http://203.80.165.14:9981/stream/channelid/1080902904?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sport TV",Astro Cricket
-http://iptv365.xyz:900/5300690644/2656525529/400252979
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/157565
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport TV",Astro Supersport 2
-http://iptv365.xyz:900/5300690644/2656525529/400252981
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/157556
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sport TV",Astro Supersport 3
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/157557
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Supersport 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport TV",Astro Supersport 4
-http://iptv365.xyz:900/5300690644/2656525529/400252980
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/157558
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Supersport 5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sport TV",Astro Supersport 5
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/287792
 #EXTINF:-1 tvg-id="13709a21be3e1a29c6e3b0fc5206cdba" tvg-name="BeIn Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="Sport TV",BeIn Sports
 http://203.80.165.14:9981/stream/channelid/563769363?profile=pass
 #EXTINF:-1 tvg-id="a3c00bceb3234325c540da022b130abb" tvg-name="Bein Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="Sport TV",Bein Sports 3
