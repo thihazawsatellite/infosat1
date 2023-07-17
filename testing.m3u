@@ -98,7 +98,7 @@ http://203.80.165.14:9981/stream/channelid/795768875?profile=pass
 #EXTINF:-1 tvg-id="11aa2e30792f5b0ab4951e99df977ce1" tvg-name="TRUE FILM 2" tvg-logo="https://cms.dmpcdn.com/livetv/2020/09/22/55764650-fc96-11ea-b266-63e567a949c5_original.png" group-title="Movies TV",TRUE FILM 2
 http://203.80.165.14:9981/stream/channelid/808364561?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Movies TV",WARNER TV
-http://iptv365.xyz:900/5300690644/2656525529/192013
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/157594
 #EXTINF:-1 tvg-id="7c3c1c3065e95547c2e5304c4f4a04b1" tvg-name="ALJAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="News TV",ALJAZEERA
 http://203.80.165.14:9981/stream/channelid/807156860?profile=pass
 #EXTINF:-1 tvg-id="3d0d063e8ded1fa45b2e1dfcc4c60f2b" tvg-name="ARIRANG" tvg-logo="https://yt3.googleusercontent.com/4PthwEL90ZIhkgYJXf2MB31m0TzindJ6f_j5frukEUTLtbnL2MHBD-CGDaV5_TRTdiJQMJJyAg=s176-c-k-c0x00ffffff-no-rj" group-title="News TV",ARIRANG
@@ -160,11 +160,13 @@ http://203.80.165.14:9981/stream/channelid/1309393059?profile=pass
 #EXTINF:-1 tvg-id="9878a89deb2cbb191b8a8fa2e76df66a" tvg-name="Bein Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="Sport TV",Bein Sports 3
 http://203.80.165.14:9981/stream/channelid/497580184?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport TV",BT Sport 1
-http://iptv365.xyz:900/5300690644/2656525529/377350
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/270
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport TV",BT Sport 2
-http://iptv365.xyz:900/5300690644/2656525529/377351
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/273
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport TV",BT Sport 3
-http://iptv365.xyz:900/5300690644/2656525529/377352
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/271
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sport TV",BT Sport 4
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298471
 #EXTINF:-1 tvg-id="7f9338a6fc315153f56276a834f877de" tvg-name="Dubai Sports" tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="Sport TV",Dubai Sports
 http://203.80.165.14:9981/stream/channelid/641241983?profile=pass
 #EXTINF:-1 tvg-id="c8449bb52c8041538977db0eb5ad4596" tvg-name="Euro Sport" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2006/01/02/236176-24642541-2560-1440.jpg" group-title="Sport TV",Euro Sport
@@ -174,9 +176,9 @@ http://203.80.165.14:9981/stream/channelid/2050986632?profile=pass
 #EXTINF:-1 tvg-id="f30dfae706810a0b03b48b2c7ec3a001" tvg-name="Football Sports 2" tvg-logo="http://203.80.165.14:9981/imagecache/139" group-title="Sport TV",Football Sports 2
 http://203.80.165.14:9981/stream/channelid/1744440819?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA" tvg-logo="" group-title="Sport TV",NBA
-http://iptv365.xyz:900/5300690644/2656525529/400252984
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/762
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL" tvg-logo="" group-title="Sport TV",NFL
-http://iptv365.xyz:900/5300690644/2656525529/400252983
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/2367
 #EXTINF:-1 tvg-id="81e7c4e68001482278b6b8174255710e" tvg-name="SkyNet Soprts 3" tvg-logo="http://203.80.165.14:9981/imagecache/131" group-title="Sport TV",SkyNet Soprts 3
 http://203.80.165.14:9981/stream/channelid/1724180353?profile=pass
 #EXTINF:-1 tvg-id="34470b46516c5bf6bd0b96ae8ecfb901" tvg-name="Skynet Sports 1" tvg-logo="http://203.80.165.14:9981/imagecache/53" group-title="Sport TV",Skynet Sports 1
@@ -196,13 +198,11 @@ http://203.80.165.14:9981/stream/channelid/656608308?profile=pass
 #EXTINF:-1 tvg-id="37cb5073eb8617f1d51123f760596575" tvg-name="WWE" tvg-logo="http://203.80.165.14:9981/imagecache/71" group-title="Sport TV",WWE
 http://203.80.165.14:9981/stream/channelid/1934674743?profile=pass
 #EXTINF:-1 tvg-id="37cb5073eb8617f1d51123f760596575" tvg-name="WWE HD" tvg-logo="http://203.80.165.14:9981/imagecache/71" group-title="Sport TV",WWE HD
-http://iptv365.xyz:900/5300690644/2656525529/186845
-#EXTINF:-1 tvg-id="37cb5073eb8617f1d51123f760596575" tvg-name="WWE TEST" tvg-logo="http://203.80.165.14:9981/imagecache/71" group-title="Sport TV",WWE TEST
-https://epg.pw/stream/3908ba971f6b61c7e05709720f71c7214d79c5f5a030cb4fb1b4318e995de081.ctv
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/2373
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="" group-title="Thai TV",ETV
-http://iptv365.xyz:900/5300690644/2656525529/377487
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/147245
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOOD IDEA TV" tvg-logo="" group-title="Thai TV",GOOD IDEA TV
-http://iptv365.xyz/5300690644/2656525529/34501
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/146728
 #EXTINF:-1 tvg-id="9e8de4924927e9849518aefeb119da9e" tvg-name="LAO PSTV" tvg-logo="http://203.80.165.14:9981/imagecache/119" group-title="Thai TV",LAO PSTV
 http://203.80.165.14:9981/stream/channelid/316968350?profile=pass
 #EXTINF:-1 tvg-id="07fe67cf3de0822a09a6d6b8858c92ba" tvg-name="MTV LIVE" tvg-logo="http://203.80.165.14:9981/imagecache/146" group-title="Thai TV",MTV LIVE
@@ -210,19 +210,19 @@ http://203.80.165.14:9981/stream/channelid/1332215303?profile=pass
 #EXTINF:-1 tvg-id="8b7a2abf3bd986b3d84979fcf116c115" tvg-name="NBT THAI" tvg-logo="http://203.80.165.14:9981/imagecache/123" group-title="Thai TV",NBT THAI
 http://203.80.165.14:9981/stream/channelid/1059748491?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRWISION" tvg-logo="" group-title="Thai TV",NRWISION
-http://iptv365.xyz/5300690644/2656525529/34504
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/196328
 #EXTINF:-1 tvg-id="772cee1e98dc213d09f51791df517179" tvg-name="THAI 3" tvg-logo="http://203.80.165.14:9981/imagecache/58" group-title="Thai TV",THAI 3
 http://203.80.165.14:9981/stream/channelid/518925431?profile=pass
 #EXTINF:-1 tvg-id="9cf6266545cbf8af74ff06b32a92be04" tvg-name="THAI 5" tvg-logo="http://203.80.165.14:9981/imagecache/59" group-title="Thai TV",THAI 5
 http://203.80.165.14:9981/stream/channelid/1697052316?profile=pass
 #EXTINF:-1 tvg-id="312033212513db325e6fd0df7cec740a" tvg-name="THAI DRAMA" tvg-logo="http://203.80.165.14:9981/imagecache/135" group-title="Thai TV",THAI DRAMA
 http://203.80.165.14:9981/stream/channelid/556998705?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAI PBS" tvg-logo="" group-title="Thai TV",THAI PBS
-http://iptv365.xyz:900/5300690644/2656525529/377455
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAI PBS 3" tvg-logo="" group-title="Thai TV",THAI PBS 3
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/145027
 #EXTINF:-1 tvg-id="0d495735a87feedafc817427003fd02c" tvg-name="THAI7" tvg-logo="http://203.80.165.14:9981/imagecache/60" group-title="Thai TV",THAI7
 http://203.80.165.14:9981/stream/channelid/894912781?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THAIRATH" tvg-logo="" group-title="Thai TV",THAIRATH
-http://iptv365.xyz:900/5300690644/2656525529/377467
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/23909
 #EXTINF:-1 tvg-id="97d344935b6519afcf255ddc8c7332dc" tvg-name="WORK POINT" tvg-logo="http://203.80.165.14:9981/imagecache/43" group-title="Thai TV",WORK POINT
 http://203.80.165.14:9981/stream/channelid/323277719?profile=pass
 #EXTINF:-1 tvg-id="3bb10b305f85e29338658d56a2be3bc5" tvg-name="ANHUI TV" tvg-logo="http://203.80.165.14:9981/imagecache/3" group-title="China TV",ANHUI TV
