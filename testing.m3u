@@ -1,8 +1,8 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 DRAMA" tvg-logo="https://i2.wp.com/akctv.com.kh/wp-content/uploads/2020/01/cropped-cropped-1-2-1-e1578891589321.png?fit=150%2C96&ssl=1" group-title="Khmer TV",AKCTV 26 DRAMA
-http://203.80.165.14:9981/stream/channelid/1601899558?profile=pass
+http://203.80.165.14/stream/channelid/1601899558?profile=pass
 #EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV 25" tvg-logo="https://i2.wp.com/akctv.com.kh/wp-content/uploads/2020/01/cropped-cropped-1-2-1-e1578891589321.png?fit=150%2C96&ssl=1" group-title="Khmer TV",AKCTV 25
-http://203.80.165.14:9981/stream/channelid/1721237608?profile=pass
+http://203.80.165.14/stream/channelid/1721237608?profile=pass
 #EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV 21" tvg-logo="https://i2.wp.com/akctv.com.kh/wp-content/uploads/2020/01/cropped-cropped-1-2-1-e1578891589321.png?fit=150%2C96&ssl=1" group-title="Khmer TV",AKCTV 21
 http://203.80.165.14:9981/stream/channelid/434020659?profile=pass
 #EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV 23" tvg-logo="https://i2.wp.com/akctv.com.kh/wp-content/uploads/2020/01/cropped-cropped-1-2-1-e1578891589321.png?fit=150%2C96&ssl=1" group-title="Khmer TV",AKCTV 23
