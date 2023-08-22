@@ -1,15 +1,15 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="http://203.80.165.14/imagecache/80" group-title="Khmer TV",AKCTV 26 Drama
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
-#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV25" tvg-logo="http://203.80.165.14/imagecache/81" group-title="Khmer TV",AKCTV25
+#EXTINF:-1 tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV 25" tvg-logo="http://203.80.165.14/imagecache/81" group-title="Khmer TV",AKCTV 25
 http://203.80.165.14/stream/channelid/1721237608?profile=pass
-#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV_21" tvg-logo="http://203.80.165.14/imagecache/2" group-title="Khmer TV",AKCTV_21
+#EXTINF:-1 tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV 21" tvg-logo="http://203.80.165.14/imagecache/2" group-title="Khmer TV",AKCTV 21
 http://203.80.165.14/stream/channelid/434020659?profile=pass
-#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV_23" tvg-logo="http://203.80.165.14/imagecache/1" group-title="Khmer TV",AKCTV_23
+#EXTINF:-1 tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV 23" tvg-logo="http://203.80.165.14/imagecache/1" group-title="Khmer TV",AKCTV 23
 http://203.80.165.14/stream/channelid/1941077281?profile=pass
-#EXTINF:-1 tvg-id="2f1e34b6baf0c07ad6baae9f9f290d2e" tvg-name="PPCTV1" tvg-logo="http://203.80.165.14/imagecache/72" group-title="Khmer TV",PPCTV1
+#EXTINF:-1 tvg-id="2f1e34b6baf0c07ad6baae9f9f290d2e" tvg-name="PPCTV 1" tvg-logo="http://203.80.165.14/imagecache/72" group-title="Khmer TV",PPCTV 1
 http://203.80.165.14/stream/channelid/909385263?profile=pass
-#EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV_6" tvg-logo="http://203.80.165.14/imagecache/77" group-title="Khmer TV",PPCTV_6
+#EXTINF:-1 tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV 6" tvg-logo="http://203.80.165.14/imagecache/77" group-title="Khmer TV",PPCTV 6
 http://203.80.165.14/stream/channelid/2083789690?profile=pass
 #EXTINF:-1 tvg-id="38305408b63df677bdd0566ade4e9999" tvg-name="APSARA" tvg-logo="http://203.80.165.14/imagecache/110" group-title="Khmer TV",APSARA
 http://203.80.165.14/stream/channelid/139735096?profile=pass
@@ -19,6 +19,8 @@ http://203.80.165.14/stream/channelid/1935146454?profile=pass
 http://203.80.165.14/stream/channelid/391283113?profile=pass
 #EXTINF:-1 tvg-id="a76cf89f445eb15af069aad8bd51d1d1" tvg-name="CTN" tvg-logo="http://203.80.165.14/imagecache/99" group-title="Khmer TV",CTN
 http://203.80.165.14/stream/channelid/536374439?profile=pass
+#EXTINF:-1 tvg-id="43b62305bc38f11ce492c16d9a35d1b8" tvg-name="FRESH NEWS" tvg-logo="http://203.80.165.14/imagecache/32" group-title="Khmer TV",FRESH NEWS
+http://203.80.165.14/stream/channelid/86226499?profile=pass
 #EXTINF:-1 tvg-id="24907eda7482b7ea5704d87ca7b6cb2c" tvg-name="MYTV" tvg-logo="http://203.80.165.14/imagecache/121" group-title="Khmer TV",MYTV
 http://203.80.165.14/stream/channelid/1518243876?profile=pass
 #EXTINF:-1 tvg-id="c35f9c39291c14735ca5c2b58a1786b5" tvg-name="CNC" tvg-logo="http://203.80.165.14/imagecache/95" group-title="Khmer TV",CNC
@@ -169,8 +171,6 @@ http://203.80.165.14/stream/channelid/2050986632?profile=pass
 http://203.80.165.14/stream/channelid/1744440819?profile=pass
 #EXTINF:-1 tvg-id="57e089ee3f908ea6baacd12c580459eb" tvg-name="FRANCE24" tvg-logo="http://203.80.165.14/imagecache/106" group-title="Others",FRANCE24
 http://203.80.165.14/stream/channelid/1854529623?profile=pass
-#EXTINF:-1 tvg-id="43b62305bc38f11ce492c16d9a35d1b8" tvg-name="FRESH NEWS" tvg-logo="http://203.80.165.14/imagecache/32" group-title="Others",FRESH NEWS
-http://203.80.165.14/stream/channelid/86226499?profile=pass
 #EXTINF:-1 tvg-id="6cb311dfe2abf65bd176229cd2c97ba3" tvg-name="FTV" tvg-logo="http://203.80.165.14/imagecache/33" group-title="Others",FTV
 http://203.80.165.14/stream/channelid/1594995564?profile=pass
 #EXTINF:-1 tvg-id="861d85b0c67fe43aa1f13c3113d929ca" tvg-name="Fujian TV" tvg-logo="http://203.80.165.14/imagecache/107" group-title="Others",Fujian TV
