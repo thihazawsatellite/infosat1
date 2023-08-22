@@ -109,6 +109,8 @@ http://203.80.165.14/stream/channelid/497580184?profile=pass
 http://203.80.165.14/stream/channelid/824752105?profile=pass
 #EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="Cartoon Network" tvg-logo="http://203.80.165.14/imagecache/12" group-title="Others",Cartoon Network
 http://203.80.165.14/stream/channelid/457761692?profile=pass
+#EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="Cartoon Network HD" tvg-logo="http://203.80.165.14/imagecache/12" group-title="Others",Cartoon Network HD
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/25861
 #EXTINF:-1 tvg-id="f44062c237eaa94ae87d7ab43e2dd6c3" tvg-name="CCTV10" tvg-logo="http://203.80.165.14/imagecache/13" group-title="Others",CCTV10
 http://203.80.165.14/stream/channelid/1113735412?profile=pass
 #EXTINF:-1 tvg-id="8dc48ae38571a61f2a9518fc0da7ecdd" tvg-name="CCTV12" tvg-logo="http://203.80.165.14/imagecache/14" group-title="Others",CCTV12
