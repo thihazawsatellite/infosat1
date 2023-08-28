@@ -52,35 +52,35 @@ http://203.80.165.14/stream/channelid/1582855399?profile=pass
 #EXTINF:-1 tvg-id="4ef3195090ca29cfd5643ceb3a638bf8" tvg-name="AXN" tvg-logo="http://203.80.165.14/imagecache/86" group-title="Movies",AXN
 http://203.80.165.14/stream/channelid/1343877966?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="" group-title="Movies",AXN HD
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/165079
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="" group-title="Movies",Cinemax
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/197964
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CinemaWorld" tvg-logo="" group-title="Movies",CinemaWorld
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/165082
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165082
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Crime" tvg-logo="" group-title="Movies",FOX Crime
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/165076
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165076
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Movies",HBO
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="" group-title="Movies",HBO HD
-http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/197972
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="" group-title="Movies",HBO Family
-http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/197055
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature" tvg-logo="" group-title="Movies",HBO Signature
-http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/221948
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="" group-title="Movies",HBO Hits
-http://kuchini.site:8080/adastream/J2DVrYWnpTu3Sk4W/196480
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hits" tvg-logo="" group-title="Movies",Hits
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/165085
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165085
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hits Movies" tvg-logo="" group-title="Movies",Hits Movies
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/221947
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221947
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Cinema" tvg-logo="" group-title="Movies",My Cinema
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298553
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298553
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Cinema Asia" tvg-logo="" group-title="Movies",My Cinema Asia
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/298554
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298554
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Moves AR" tvg-logo="" group-title="Movies",Star Moves AR
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/195999
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/195999
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="" group-title="Movies",Star Movies
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/11511
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11511
 #EXTINF:-1 tvg-id="7c3c1c3065e95547c2e5304c4f4a04b1" tvg-name="ALJAZEERA" tvg-logo="http://203.80.165.14/imagecache/82" group-title="Others",ALJAZEERA
 http://203.80.165.14/stream/channelid/807156860?profile=pass
 #EXTINF:-1 tvg-id="3bb10b305f85e29338658d56a2be3bc5" tvg-name="AnHui TV" tvg-logo="http://203.80.165.14/imagecache/3" group-title="Others",AnHui TV
@@ -112,7 +112,7 @@ http://203.80.165.14/stream/channelid/824752105?profile=pass
 #EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="Cartoon Network" tvg-logo="http://203.80.165.14/imagecache/12" group-title="Others",Cartoon Network
 http://203.80.165.14/stream/channelid/457761692?profile=pass
 #EXTINF:-1 tvg-id="9ce3481b5681ff01c884f3755c005cbb" tvg-name="Cartoon Network HD" tvg-logo="http://203.80.165.14/imagecache/12" group-title="Others",Cartoon Network HD
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/25861
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/25861
 #EXTINF:-1 tvg-id="f44062c237eaa94ae87d7ab43e2dd6c3" tvg-name="CCTV10" tvg-logo="http://203.80.165.14/imagecache/13" group-title="Others",CCTV10
 http://203.80.165.14/stream/channelid/1113735412?profile=pass
 #EXTINF:-1 tvg-id="8dc48ae38571a61f2a9518fc0da7ecdd" tvg-name="CCTV12" tvg-logo="http://203.80.165.14/imagecache/14" group-title="Others",CCTV12
@@ -284,9 +284,9 @@ http://203.80.165.14/stream/channelid/795768875?profile=pass
 #EXTINF:-1 tvg-id="11aa2e30792f5b0ab4951e99df977ce1" tvg-name="True Film 2" tvg-logo="http://203.80.165.14/imagecache/105" group-title="Others",True Film 2
 http://203.80.165.14/stream/channelid/808364561?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="True Premier Football 1" tvg-logo="" group-title="Others",True Premier Football 1
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/162591
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162591
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="True Premier Football 2" tvg-logo="" group-title="Others",True Premier Football 2
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/162592
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162592
 #EXTINF:-1 tvg-id="675e7eef8dd584bbe0ebe4febd00b003" tvg-name="True Sport 1" tvg-logo="http://203.80.165.14/imagecache/62" group-title="Others",True Sport 1
 http://203.80.165.14/stream/channelid/1870552679?profile=pass
 #EXTINF:-1 tvg-id="240498b1a818976cdbf6a218ef282ad3" tvg-name="True Sport 3" tvg-logo="http://203.80.165.14/imagecache/63" group-title="Others",True Sport 3
@@ -316,7 +316,7 @@ http://203.80.165.14/stream/channelid/323277719?profile=pass
 #EXTINF:-1 tvg-id="37cb5073eb8617f1d51123f760596575" tvg-name="WWE" tvg-logo="http://203.80.165.14/imagecache/71" group-title="Others",WWE
 http://203.80.165.14/stream/channelid/1934674743?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE HD" tvg-logo="" group-title="Others",WWE HD
-http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/2373
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2373
 #EXTINF:-1 tvg-id="aa3f7a0b6a254535f498e851abd3ae9a" tvg-name="Xing Kong" tvg-logo="http://203.80.165.14/imagecache/133" group-title="Others",Xing Kong
 http://203.80.165.14/stream/channelid/192561066?profile=pass
 #EXTINF:-1 tvg-id="a97d80ed5682aa7b7587b99b403dff5f" tvg-name="Youman Cartoon TV" tvg-logo="http://203.80.165.14/imagecache/143" group-title="Others",Youman Cartoon TV
