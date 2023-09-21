@@ -58,11 +58,11 @@ http://27.0.234.149:9087/stream/channelid/195835987?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax HD" tvg-logo="" group-title="Movies",Cinemax HD
 http://27.0.234.149:9087/stream/channelid/633846581?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CinemaWorld" tvg-logo="" group-title="Movies",CinemaWorld
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165082
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Crime" tvg-logo="" group-title="Movies",FOX Crime
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165076
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Movies",HBO
-http://61.221.81.93:8078/hls/23/80/hbo.m3u8
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="" group-title="Movies",HBO HD
 http://27.0.234.149:9087/stream/channelid/1965190867?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="" group-title="Movies",HBO Family
@@ -80,9 +80,9 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298553
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Cinema Asia" tvg-logo="" group-title="Movies",My Cinema Asia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298554
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Moves AR" tvg-logo="" group-title="Movies",Star Moves AR
-http://tv.pro-ott.com:25443/live/LamineNHD/N1234567A7/67262.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="" group-title="Movies",Star Movies
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/11511
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="" group-title="Movies",Star Movies
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/195999
 #EXTINF:-1 tvg-id="7c3c1c3065e95547c2e5304c4f4a04b1" tvg-name="ALJAZEERA" tvg-logo="http://203.80.165.14/imagecache/82" group-title="Others",ALJAZEERA
 http://203.80.165.14/stream/channelid/807156860?profile=pass
 #EXTINF:-1 tvg-id="3bb10b305f85e29338658d56a2be3bc5" tvg-name="AnHui TV" tvg-logo="http://203.80.165.14/imagecache/3" group-title="Others",AnHui TV
